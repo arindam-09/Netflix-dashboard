@@ -49,4 +49,4 @@ iii. Supports regional content strategy using country-level analysis
 iv. Assists in understanding target audience segments through ratings distribution
 
 
-example 
+Example : https://github.com/arindam-09/Netflix-dashboard/blob/main/netflix_dashboard.png
